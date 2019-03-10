@@ -1,6 +1,6 @@
 # COLUMPIO
 
-![Columpio v1](docs/render-columpio-01.jpg)
+![Columpio v1](./docs/render-columpio-01.jpg)
 
 Columpio con giroscopios acelerómetro que modifica un cuadro.
 El cuadro puede ser sólo lumínico, que se ilumine al recibir movimiento.
@@ -29,7 +29,7 @@ Para desarrollar elegí la librería [FastLED](https://github.com/FastLED/FastLE
 
 #### Circuito básico, "Hello leds":
 
-![Led Circuit](docs/leds-circuit.png)
+![Led Circuit](./docs/leds-circuit.png)
 
 ```c
 /**
